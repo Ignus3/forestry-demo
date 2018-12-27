@@ -1,7 +1,7 @@
 ---
 title: test post
 sub_heading: testing
-date: ''
+date: 2018-12-27 08:00:00 +0000
 tags: []
 banner_image: ''
 related_posts: []
